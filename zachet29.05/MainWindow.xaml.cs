@@ -5,7 +5,7 @@ using zachet29._05;
 namespace zachet29._05
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml (Code-Behind).
+    /// Логика взаимодествия для MainWindow.xaml (Code-Behind).
     /// Валидация ввода и вызов методов класса TipCalculatorLogic.
     /// </summary>
     public partial class MainWindow : Window
