@@ -34,13 +34,6 @@ zachet29.05/
 
 ---
 
-## Требования
-
-- .NET 6.0 / .NET Framework 4.8
-- Visual Studio 2022
-
----
-
 ## Запуск тестов
 
 1. Открыть решение в Visual Studio
