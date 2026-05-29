@@ -58,3 +58,7 @@ zachet29.05/
 ## Ссылка на репозиторий
 
 https://github.com/qplindy/zachet29.05
+
+## Тестовые сценарии
+
+Файл с ручным тестированием: 'test-scenarios-variant3'
